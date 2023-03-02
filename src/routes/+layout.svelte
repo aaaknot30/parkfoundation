@@ -8,7 +8,7 @@
 <main>
   <div class="container">
     <header>
-      <h1>Park Fountain Music App</h1>
+      <h1>Park Foundation Music App</h1>
       <div class="searchGroup">
 
 
