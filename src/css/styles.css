@@ -205,3 +205,19 @@ footer {
     background: #99a399;
   }
 }
+
+.youtube_btn {
+  padding: .2rem .7rem;
+  background-color: black;
+  color: white;
+  border: none;
+  border-radius: 1rem;
+  margin: 1rem 0 0 0;
+  display: inline-block;
+}
+
+.youtube_btn:hover,
+.youtube_btn.focus {
+  color: white;
+  background-color: #777;
+}

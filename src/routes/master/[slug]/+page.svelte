@@ -54,11 +54,14 @@
         </div>
 
       </div>
+      <p><a rel="noreferrer" class="youtube_btn" target="_blank" href="https://www.youtube.com/results?search_query={data.content.artists[0].name} - {data.content.title}">See video on youtube</a> </p>
     </section>
 
 
 
 <style>
+
+
 
 
 /* * {
