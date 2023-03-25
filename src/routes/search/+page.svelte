@@ -91,4 +91,14 @@
     gap: 2rem;
     padding-top: 2rem;
   }
+
+  @media (max-width: 1100px) {
+
+    .section-group {
+      grid-template-columns:  auto;
+    }
+
+  }
+
+
 </style>

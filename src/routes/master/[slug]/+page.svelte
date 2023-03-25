@@ -108,5 +108,11 @@ h3 {
   margin-top: 1rem;
 }
 
+@media (max-width: 1000px) {
+  img {
+    width: 100px;
+  }
+}
+
 
 </style>

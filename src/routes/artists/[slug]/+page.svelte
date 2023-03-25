@@ -84,7 +84,7 @@
 border: 1px solid blue;
 } */
 section {
-margin: -1rem 0 0 2rem;
+  margin: -1rem 0 0 2rem;
 }
 
 .section-group {
@@ -125,6 +125,19 @@ h3 {
 margin-top: 1rem;
 }
 
+@media (max-width: 1100px) {
+
+  .section-1 {
+    margin-left: .2rem;
+  }
+  .section-group {
+    grid-template-columns:  auto;
+  }
+  .intro {
+    grid-column: 1 / 2;
+  }
+
+}
 
 </style>
   

@@ -236,6 +236,15 @@ footer {
     grid-column: 1 / span 1;
   }
 
+  body {
+    background-color: white;
+  }
+
+  footer {
+    background-color: white;
+    color: black;
+  }
+
 }
 
 
