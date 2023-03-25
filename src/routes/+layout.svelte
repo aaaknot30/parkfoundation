@@ -34,7 +34,7 @@
 
 </div>
 <footer>
-  <p>By Kyle Larson, 3/2023</p>
+  <p>By Kyle Larson</p>
 </footer>
 </main>
 
@@ -46,6 +46,8 @@
   .searchGroup a {
     font-size: 1rem;
   }
+
+
 
   
 </style>
